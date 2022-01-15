@@ -18,7 +18,7 @@
     "jquery": "^3.2.1",
     "js-cookie": "^2.1.4",
     "lodash": "^4.17.4",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "mavon-editor": "^1.6.2",
     "postcss-url": "^6.1.0",
     "precss": "^1.4.0",
